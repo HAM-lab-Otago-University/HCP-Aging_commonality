@@ -1,5 +1,8 @@
 # HCP-Aging_commonality
 
+Note, users will need to edit these scripts, so that the designated folders and files match with their local settings.
+
+Prerequisite software for our script: wb_command (HCP Workbench Command) (v1.5.0, https://www.humanconnectome.org/software/connectome-workbench) FSL (6.0.5, https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
 
 The several files were borrowed from other different projects:
 
