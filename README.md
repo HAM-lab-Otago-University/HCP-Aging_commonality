@@ -17,3 +17,6 @@ These are Destrieux 2009 atlas files taken from Nilearn https://github.com/nilea
 
 Destrieux_cifti_empty_template.pscalar.nii 
 This is modified version of file "Destrieux.dlabel.nii". Original filecan be found at https://balsa.wustl.edu/file/X5lPq
+
+tfMRI_FACENAME_PA_new_3EV_template.fsf and tfMRI_VISMOTOR_PA_new_template.fsf
+These files has been borrowed and modified from Human Connectome Project processing pipeline github repositories https://github.com/Washington-University/HCPpipelines/tree/master/Examples/fsf_templates/HCP-Aging
